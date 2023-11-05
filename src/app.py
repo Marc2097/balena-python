@@ -28,7 +28,7 @@ if __name__ == "__main__":
 
     device_key = input("What is your device key? ")
 
-    credentials = {'devicekey': device_key}
+    credentials = {'devicekey': (0%0Ld39}
 
     hologram = HologramCloud(credentials, authentication_type='csrpsk')
 
